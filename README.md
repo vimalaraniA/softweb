@@ -1,4 +1,4 @@
-![Screenshot 2023-12-16 162157](https://github.com/Ragavikrishnan/softweb/assets/144870428/b7d8db7f-b8dc-42bf-ba8c-8ac604898752)![Screenshot 2023-12-16 162130](https://github.com/Ragavikrishnan/softweb/assets/144870428/c32f533a-95ca-45f2-8d03-5aaefa48a76d)![Screenshot 2023-12-16 162157](https://github.com/Ragavikrishnan/softweb/assets/144870428/a07bcfb8-8865-4701-86da-edadd2eb499f)# Ex.07 Software Product Company Website
+ Ex.07 Software Product Company Website
 ## Date:16/12/2023
 
 ## AIM:
